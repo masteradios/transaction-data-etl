@@ -416,7 +416,8 @@ dagster dev
 
 Access the UI at `http://localhost:3000`
 
-![Dagster UI](./docs/dagster_ui.png)
+<img width="1920" height="1022" alt="dagster_jobs" src="https://github.com/user-attachments/assets/5b572a61-a073-4695-96a7-1d113b79dc74" />
+
 
 ### Enable Sensors
 
